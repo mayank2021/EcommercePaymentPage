@@ -1,0 +1,16 @@
+.text{
+    text-transform: capitalize;
+    margin: 10px 20px;
+    display: flex;
+    align-items: center;
+}
+
+.small{
+    font-size: 12px;
+}
+
+.medium{
+font-size: 15px;
+font-weight: 500;
+margin: 10px;
+}

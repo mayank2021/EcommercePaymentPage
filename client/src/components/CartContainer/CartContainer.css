@@ -1,0 +1,38 @@
+.cart-main--container{
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.cart-total-container {
+  padding: 10px 25px;
+  border-radius: 50px;
+  display: flex;
+  justify-content: space-between;
+  width: 180px;
+  background-color: #cdd0cb;
+  margin: auto;
+}
+
+.cart-total-para {
+  font-size: 12px;
+}
+
+.cart-total-price {
+  font-size: 12px;
+  font-weight: 500;
+}
+.cart-freeShipping--container {
+    width: 160px;
+    justify-content: space-between;
+    line-height: 18px;
+    align-items: center;
+    display: flex;
+    padding: 5px 10px;
+    margin: auto;
+}
+
+.cart-freeShipping-para{
+font-size: 10px;
+width: 70%;
+}

@@ -1,0 +1,12 @@
+.shipping-main--container{
+width: 38%;
+}
+
+.shipping-button-container{
+display: flex;
+}
+
+.shipping-input-container{
+display: flex;
+flex-wrap: wrap;
+}

@@ -1,0 +1,18 @@
+.payment-main--container{
+ width: 37%;
+}
+
+.payment_method-button--container{
+ display: flex;
+ flex-wrap: wrap;
+ padding: 0 10px;
+}
+
+.delivery_method-button--container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.delivery_method-button--container > *{
+    margin: 0 10px ;
+}

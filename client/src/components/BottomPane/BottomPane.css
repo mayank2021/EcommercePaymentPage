@@ -1,0 +1,23 @@
+.bottompane-container{
+display: flex;
+justify-content: space-between;
+padding: 0 10px;
+}
+
+.bottompane-back--container{
+display: flex;
+align-items: center;
+justify-content: space-around;
+width: 8%;
+cursor: pointer;
+}
+.bottompane-back--para{
+font-size: 15px;
+font-weight: 500;
+position: relative;
+right: 15px;
+}
+.bottompane-button--container{
+display: flex;
+width: 34%;
+}

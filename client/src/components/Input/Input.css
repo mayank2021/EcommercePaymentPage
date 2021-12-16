@@ -1,0 +1,22 @@
+.input{
+    border: 2px solid #D5D5D5;
+    text-transform: capitalize;
+    padding: 10px 15px;
+    border-radius: 50px;
+    margin: 10px;
+    color: #D5D5D5;
+}
+
+.input::placeholder {
+color:#D5D5D5;
+font-size: 12px;
+font-weight: 500;
+}
+
+.input:focus{
+    outline: none;
+}
+
+select{
+    width: 203px;
+}

@@ -1,0 +1,36 @@
+.nav-main--container{
+display: flex;
+justify-content: space-between;
+padding: 10px;
+border-bottom: 2px solid #eeeeee;
+}
+
+.nav-logo--container{
+display: flex;
+align-items: center;
+}
+
+.nav-logo--container p {
+    font-weight: 500;
+    margin: 10px;
+}
+
+.nav-logo--container p span {
+    color: #FF8E00;
+}
+
+.nav-text--container{
+display: flex;
+}
+.nav-text--container > *{
+    cursor: pointer;
+    }
+
+.nav-icon--container{
+display: flex;
+}
+
+.nav-icon--container > * {
+    margin: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,35 @@
+.cartlist-container{
+display: flex;
+align-items: center;
+height: 60px;
+width: 298px;
+margin: 10px 20px;
+}
+
+.cartlist-img--container{
+width: 50px;
+height: 50px;
+border-radius: 50%;
+}
+
+.cartlist-descrip--container{
+width: 200px;
+height: 60px;
+display: flex;
+flex-direction: column;
+justify-content:space-evenly;
+align-items:flex-start;
+padding-left: 6px;
+}
+
+.cartlist-descrip_text--container{
+width: 100%;
+}
+.cartlist-descrip_text--container > *{
+    margin: 0;
+}
+
+.cartlist-code{
+font-size: 10px;
+color: #CDD0CB;
+}

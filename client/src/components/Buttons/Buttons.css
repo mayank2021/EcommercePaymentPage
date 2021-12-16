@@ -1,0 +1,70 @@
+.buttons{
+    margin: 10px;
+    text-transform: uppercase;
+    padding:12px 20px;
+    cursor: pointer;
+    border-radius: 50px;
+    font-size: 12px;
+}
+.primary{
+    letter-spacing: 1px;
+    border:none;
+    background-color: #2FDD92;
+    color: #f7f7f7;
+
+}
+
+.secondary{
+    background-color: transparent;
+    border: 2px solid #D5D5D5;
+}
+
+.tertiary{
+    background-color: transparent;
+    font-weight: 500;
+    border: 1px solid #212121;
+}
+
+.button-img{
+    width: 60px;
+    height: 20px;
+    background: transparent;
+}
+
+.img-text{
+    font-size: 10px;
+    margin: 0 15px;
+    font-weight: 500;
+}
+
+.navpane1{
+padding: 7px;
+border: 2px solid #2FDD92;
+background-color: transparent;
+margin: 10px 30px;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+.navpane2{
+    padding: 7px;
+color:#f7f7f7;
+background-color: #2FDD92;
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 10px 20px 10px 30px;
+border:2px solid #2FDD92
+}
+
+.img-button{
+    padding: 10px 20px;
+    width: 105px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit: fill;
+
+}
