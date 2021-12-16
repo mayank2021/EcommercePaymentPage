@@ -7,7 +7,7 @@ This is an ecommerce payment page associated with a payment gateway(Razorpay). J
 
 ## Documentation
 
-**JWS auth**
+**JWT auth**
 
 You cannot go to protected routes without login. Click on login, a dialog box pops out, without filling your email and password, you are not able to see protected content(which is visible when you click on access protected content if you are logged in) but when you logged in and then click the button(access protected content), you will find, now you are able to see the protected content.
 
