@@ -1,20 +1,17 @@
 
 # Ecommerce payment page
 
-This is an ecommerce payment page associated with a payment gateway(Razorpay). JSON Web Tokens(JWS) is used to authenticate users. 
-
-
+This is an e-commerce payment page associated with a payment gateway(Razorpay). JSON Web Tokens(JWS) are used to authenticate users.
 
 ## Documentation
 
 **JWT auth**
 
-You cannot go to protected routes without login. Click on login, a dialog box pops out, without filling your email and password, you are not able to see protected content(which is visible when you click on access protected content if you are logged in) but when you logged in and then click the button(access protected content), you will find, now you are able to see the protected content.
+You cannot go to protected routes without a login. Click on login, a dialog box pops out, without filling in your email and password, you are not able to see protected content(which is visible when you click on access protected content if you are logged in) but when you logged in and then click the button(access protected content), you will find, now you can see the protected content.
 
 **Razorpay**
 
-You can click on the button(proceed to payment) to check the functionality of Razorpay. when you click the button a window pops out with a bunch of payment option.
-
+You can click on the button(proceed to payment) to check the functionality of Razorpay. when you click the button a window pops out with a bunch of payment options.
 
 ## Run Locally
 
