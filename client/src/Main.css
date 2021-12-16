@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@700&family=Montserrat:wght@100;200;300;400;500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main--container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
